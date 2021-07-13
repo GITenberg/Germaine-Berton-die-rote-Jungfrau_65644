@@ -1,5 +1,5 @@
 _repo: Germaine-Berton-die-rote-Jungfrau_65644
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Berings, Louis
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '53441'
     url: http://www.gutenberg.org/2009/agents/53441
     wikipedia: https://fr.wikipedia.org/wiki/Louis_Berings
+covers:
+- cover_type: archival
+  image_path: 65644-h/images/cover.jpg
 creator:
   author:
     agent_name: Goll, Yvan
@@ -32,6 +35,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36361
     wikipedia: https://de.wikipedia.org/wiki/Rudolf_Leonhard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65644#Germaine-Berton-die-rote-Jungfrau
 gutenberg_issued: '2021-06-19'
 gutenberg_type: Text
 identifiers:
